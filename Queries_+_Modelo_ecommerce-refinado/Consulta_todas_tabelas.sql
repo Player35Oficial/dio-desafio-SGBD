@@ -1,0 +1,16 @@
+show tables;
+select * from cliente;
+select * from conta;
+select * from estoque;
+select * from formadepagamentos;
+select * from fornecedor;
+select * from fornecedorproduto;
+select * from pedido;
+select * from pessoafísica;
+select * from pessoajurídica;
+select * from produto;
+select * from produtoestoque;
+select * from produtopedido;
+select * from produtosvendedor;
+select * from rastreio;
+select * from vendedorterceiro;
