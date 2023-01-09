@@ -1,0 +1,10 @@
+insert into ordemDeServico values 	(1, '2022-12-25', 2400, 'Aberto', '2022-12-30', 'Autorizado'),
+									(2, '2022-12-26', 1200, 'Aberto', '2022-12-31', 'Autorizado'),
+									(3, '2022-12-27', 2200, 'Aberto', '2023-01-01', 'Não Autorizado'),
+									(4, '2022-12-28', 1000, 'Aberto', '2023-01-02', 'Autorizado'),
+									(5, '2022-12-29', 2500, 'Aberto', '2023-01-03', 'Não Autorizado'),
+									(6, '2022-12-30', 5000, 'Aberto', '2023-01-04', 'Autorizado'),
+									(7, '2022-12-31', 5000, 'Aberto', '2023-01-05', 'Não Autorizado'),
+									(8, '2023-01-01', 5000, 'Aberto', '2023-01-06', 'Não Autorizado'),
+									(9, '2023-01-02', 700, 'Aberto', '2023-01-07', 'Autorizado'),
+									(10, '2023-01-03', 2270, 'Aberto', '2023-01-08', 'Autorizado');

@@ -1,0 +1,10 @@
+insert into mecanico values	(1, 'João Paulo', 'Rua Escocês de Vila Nova, 51 Jardim Napolitano - Botijão, São Paulo', 'Amortecedores', 1),
+							(2, 'Alberto Junior', 'Rua Paz da Graça, 32 Jardim da Fé - Lista Nova, São Paulo', 'Freios', 2),
+							(3, 'Felipe Castro', 'Avenida Sabemos Pouco, 787 Jardim do Estudo - Boas Novas, São Paulo', 'Climatização', 3),
+							(4, 'Pedro Lucas', 'Avenida Sabemos Pouco, 780 Jardim do Estudo - Boas Novas, São Paulo', 'Embreagem', 4),
+							(5, 'Roberto Prado', 'Rua Nutrição Defasada, 232 Jardim Napolitano - Botijão, São Paulo', 'Transmissão', 5),
+							(6, 'Douglas Silva', 'Rua Escocês de Vila Nova, 125 Jardim Napolitano - Botijão, São Paulo', 'Motor', 6),
+							(7, 'Lucas Fernandini', 'Rua Franja da Guarda, 280 Jardim dos Flocos - Boas Novas, São Paulo', 'Revisão', 7),
+							(8, 'Ryan Ferreira', 'Rua Franja da Guarda, 375 Jardim dos Flocos - Boas Novas, São Paulo', 'Revisão', 7),
+							(9, 'Kauan Oliveira', 'Rua Escocês de Vila Nova, 270 Jardim Napolitano - Botijão, São Paulo', 'Motor', 8),
+							(10, 'Paulo Correia', 'Rua Alemão Indiano, 2080 Jardim Calha Nova - Mesa, São Paulo', 'Transmissão', 6);
