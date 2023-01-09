@@ -33,5 +33,3 @@ insert into Produto values(212, "Legumes", "Cenoura", 5.99);
 insert into Produto values(211, "Legumes", "Tomate", 3.99);
 insert into Produto values(210, "Legumes", "Alface", 2.99);
 insert into Produto values(209, "Legumes", "Cebola", 1.99);
-
-
